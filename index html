@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brine7376 Sitesi</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+    <header>
+        <h1>MERHABA</h1>
+    </header>
+    <nav>
+        <a href="#" class="button">Anasayfa</a>
+        <a href="#" class="button">Hakkımızda</a>
+        <a href="#" class="button">İletişim</a>
+    </nav>
+    <main>
+        <h2>Anasayfa</h2>
+        <p>Merhaba, ben Enes TURGUT Robotekno öğrencisiyim, 15 yaşindayim.</p>
+        <img src="genel_profil.jpg" alt="Genel Profilim">
+    </main>
+    <footer>
+        &copy; 2024 Benim Harika Websitesi
+    </footer>
+</body>
+</html>
